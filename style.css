@@ -25,6 +25,12 @@ p {
 	margin-top: 0; 
 	text-align: justify;
 	}
+h1 {
+	font: italic normal 7.4em georgia, sans-serif;
+	letter-spacing: 1px;
+	margin-bottom: 0;
+	color: #7D775C;
+	}
 h2 {
 	font: italic normal 5.4em georgia, sans-serif;
 	letter-spacing: 1px;
