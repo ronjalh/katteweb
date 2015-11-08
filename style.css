@@ -38,7 +38,12 @@ h2 {
 	margin-bottom: 0; 
 	color: #7D775C;
 	}
-a:link { 
+a {
+	font-weight: bold;
+	text-decoration: none;
+	color: #red;
+	}
+a:link {
 	font-weight: bold; 
 	text-decoration: none; 
 	color: #red;
