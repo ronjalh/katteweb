@@ -41,21 +41,21 @@ h2 {
 a {
 	font-weight: bold;
 	text-decoration: none;
-	color: #Crimson;
+	color: #FF0000;
 	}
 a:link {
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #Crimson;
+	color: #FF0000;
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #Crimson;
+	color: #FF0000;
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #Crimson;
+	color: #FF0000;
 	}
 abbr {
 	border-bottom: none;
