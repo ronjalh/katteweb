@@ -41,21 +41,21 @@ h2 {
 a {
 	font-weight: bold;
 	text-decoration: none;
-	color: #red;
+	color: #Crimson;
 	}
 a:link {
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #red;
+	color: #Crimson;
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #red;
+	color: #Crimson;
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #red;
+	color: #Crimson;
 	}
 abbr {
 	border-bottom: none;
